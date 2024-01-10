@@ -1,7 +1,17 @@
 #!/usr/bin/env python3
 
-# create a list containing three items
-iplist = [ 5060, "80", 55, "10.0.0.1", "10.20.30.1", "ssh" ]
+def main():
 
-# display the first item in the list
-print(f"IP addresses: {iplist[3]}, {iplist[4]}")
+    wordbank = ["indentation", "spaces"]
+
+    tlgstudents = ['Albert', 'Anthony', 'Brenden', 'Craig', 'Deja', 'Elihu', 'Eric', 'Giovanni', 'James', 'Joshua', 'Maria', 'Mohamed', 'PJ', 'Philip', 'Sagan', 'Suchit', 'Meka', 'Trey', 'Winton', 'Xiuxiang', 'Yaping']
+
+    wordbank.append(4)
+
+    num = int(input("Pick a student number? [0-20] "))
+
+    name = tlgstudents[num]
+
+    print(f"Your tribute is {name}.")
+
+main()    
