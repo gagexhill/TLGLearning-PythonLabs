@@ -14,6 +14,6 @@ def main():
 
     movie = [fav_movie]
 
-    print("Hello " + name[0].capitalize() + "! you're " + str(age[0]) + " years old and your favorite movie is " + movie[0].capitalize() + "!")
+    print(f"Hello {name[0].capitalize()}! you're {str(age[0])} years old and your favorite movie is {movie[0].capitalize()} !")
 
 main()    
