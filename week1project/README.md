@@ -37,7 +37,7 @@ After setting the environment variable, restart your IDE or terminal before runn
 
 ## Setup
 - Ensure you have Python 3.x installed.
-- Install required Pyhton packages using: `pip install requests emoji`
+- Install required Python packages using: `pip install requests emoji`
 - Clone or download this script to your local machine.
 - Execute the script in a Python environment: `python emojidecoder.py`
 - Follow the on-screen prompts to input your name and the text with emojis.
@@ -46,39 +46,39 @@ After setting the environment variable, restart your IDE or terminal before runn
 Run the script in a Python environment. The user will be prompted to enter their name and the text containing emojis. The script will decode the emojis and fetch their additional information, displaying it in a readable format.
 
 ## Example
-### What is your name? Alice
-### 
-### You told me your name is Alice. Is this correct? yes
-### 
-### 😃 Awesome name!😃
-### 
-### Hi Alice! My name is Zoop and I'm going to help you decode those tough millennial emojis.
-### 
-### Please enter the text with those pesky emojis here and I'll get to decoding right away for you.
-### Press [Enter] when you're ready to continue.
-### 🙂🚀
-### 
-### Here is your decoded text:
-### ------------------------------
-### 
-### 🙂 :slightly_smiling_face:
-### Additional Emoji Information:
-### ------------------------------
-### [Information from Emoji API]
-### 
-### 🚀 :rocket:
-### Additional Emoji Information:
-### ------------------------------
-### [Information from Emoji API]
-### 
-### Is there anything else I can decode for you? no
-### 
-### 😃 Fantastic!😃
-### 
-### I enjoyed decoding for you. It's my only purpose in this noncorporeal existence.🥲
-### Anywho, feel free to drop in anytime.
-### 
-### Have a wonderful day Alice!
+```What is your name? Alice
+
+You told me your name is Alice. Is this correct? yes
+
+😃 Awesome name!😃
+
+Hi Alice! My name is Zoop and I'm going to help you decode those tough millennial emojis.
+
+Please enter the text with those pesky emojis here and I'll get to decoding right away for 
+Press [Enter] when you're ready to continue.
+🙂🚀
+
+Here is your decoded text:
+------------------------------
+
+🙂 :slightly_smiling_face:
+Additional Emoji Information:
+------------------------------
+[Information from Emoji API]
+
+🚀 :rocket:
+Additional Emoji Information:
+------------------------------
+[Information from Emoji API]
+
+Is there anything else I can decode for you? no
+
+😃 Fantastic!😃
+
+I enjoyed decoding for you. It's my only purpose in this noncorporeal existence.🥲
+Anywho, feel free to drop in anytime.
+
+Have a wonderful day Alice!```
 
 ## Contributing
 Feel free to fork this project and contribute. All contributions to improve the script or add new features are welcome.
