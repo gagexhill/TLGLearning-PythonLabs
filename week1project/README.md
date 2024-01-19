@@ -46,7 +46,9 @@ After setting the environment variable, restart your IDE or terminal before runn
 Run the script in a Python environment. The user will be prompted to enter their name and the text containing emojis. The script will decode the emojis and fetch their additional information, displaying it in a readable format.
 
 ## Example
-```What is your name? Alice
+
+```
+What is your name? Alice
 
 You told me your name is Alice. Is this correct? yes
 
