@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" The script is a Python program designed to decode emoji's, primarily using the 'Emoji' module, in text entered by a   user. """
+""" The script is a Python program designed to decode emoji's, primarily using the 'Emoji' module, in text entered by a user. """
 
 import emoji
 
