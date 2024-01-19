@@ -20,7 +20,7 @@ def get_emoji_info(emoji_char):
 
 #function to format emoji-api data
 def print_emoji_info(emoji_info):
-    print("\nAdditional Emoji Information:\n" + '-' * 22)
+    print("\nAdditional Emoji Information:\n" + '-' * 29)
     #checks if 'emoji_info' is a dictionary
     if isinstance(emoji_info, dict):
         for key, value in emoji_info.items():

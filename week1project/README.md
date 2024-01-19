@@ -61,11 +61,12 @@ Press [Enter] when you're ready to continue.
 🙂🚀
 
 Here is your decoded text:
-------------------------------
+--------------------------
 
 🙂 :slightly_smiling_face:
+
 Additional Emoji Information:
-------------------------------
+-----------------------------
 slug : e1-0-slightly-smiling-face
 character : 🙂
 unicodeName : E1.0 slightly smiling face
@@ -73,15 +74,20 @@ codePoint : 1F642
 group : smileys-emotion
 subGroup : face-smiling
 
+--------------------------------------------------
+
 🚀 :rocket:
+
 Additional Emoji Information:
-------------------------------
+-----------------------------
 slug : e12-1-astronaut
 character : 🧑‍🚀
 unicodeName : E12.1 astronaut
 codePoint : 1F9D1 200D 1F680
 group : people-body
 subGroup : person-role
+
+--------------------------------------------------
 
 Is there anything else I can decode for you? no
 
