@@ -1,7 +1,7 @@
 # Emoji Decoder
 
 ## Description
-This Python script, named Emoji Decoder, is designed to decode emojis from the text entered by a user. It leverages the capabilities of the emoji module and the Emoji API to interpret emojis and fetch additional related information. The script uses environment variables for API key management to enhance security.
+This Python script, named **Emoji Decoder**, is designed to decode emojis from the text entered by a user. It leverages the capabilities of the emoji module and the Emoji API to interpret emojis and fetch additional related information. The script uses environment variables for API key management to enhance security.
 
 ## Features
 - **Emoji Decoding**: Converts emojis in the user's text into their corresponding textual representation.
@@ -37,9 +37,9 @@ After setting the environment variable, restart your IDE or terminal before runn
 
 ## Setup
 - Ensure you have Python 3.x installed.
-- Install required Python packages using: `pip install requests emoji`
+- Install required Python packages using. Use the command `pip install requests emoji` in Command Prompt.
 - Clone or download this script to your local machine.
-- Execute the script in a Python environment: `python emojidecoder.py`
+- Execute the script in a Python environment. Use the command `python emojidecoder.py` in Python environment.
 - Follow the on-screen prompts to input your name and the text with emojis.
 
 ## Usage
@@ -78,13 +78,14 @@ Is there anything else I can decode for you? no
 I enjoyed decoding for you. It's my only purpose in this noncorporeal existence.🥲
 Anywho, feel free to drop in anytime.
 
-Have a wonderful day Alice!```
+Have a wonderful day Alice!
+```
 
 ## Contributing
 Feel free to fork this project and contribute. All contributions to improve the script or add new features are welcome.
 
 ## Author
-- Gage Hill - [LinkedIn](https://linkedin.com/gagehill)
+- **Gage Hill** - [LinkedIn](https://linkedin.com/gagehill)
 
 ## Acknowledgments
 Special thanks to:
